@@ -1,0 +1,25 @@
+{
+    "name": "hinqdev/flag",
+	"version" : "1.0.0",
+	"type":"library",
+	"keywords" : ["flag","hinqdev"],
+    "description": "my self BGM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hinq_xx",
+            "email": "916272047@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {},
+        "classmap": [],
+        "files": [
+            "src/test.php"
+        ]
+    },
+	"require":{
+		"php":">=5.3.0"
+	}
+}

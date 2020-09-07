@@ -6,7 +6,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "hinq_xx",
+            "name": "hinq",
             "email": "916272047@qq.com"
         }
     ],
@@ -19,6 +19,6 @@
         ]
     },
 	"require":{
-		"php":">=5.2.0"
+		"php":">=5.2.1"
 	}
 }

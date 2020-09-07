@@ -1,6 +1,5 @@
 {
-    "name": "hinqdev/flag",
-	"version" : "1.0.0",
+    "name": "hinqdev/flag2",
 	"type":"library",
 	"keywords" : ["flag","hinqdev"],
     "description": "my self BGM",

@@ -1,5 +1,5 @@
 {
-    "name": "hinqdev/flag2",
+    "name": "hinqdev/flag3",
 	"type":"library",
 	"keywords" : ["flag","hinqdev"],
     "description": "my self BGM",
@@ -19,6 +19,6 @@
         ]
     },
 	"require":{
-		"php":">=5.2.2"
+		"php":">=5.3.0"
 	}
 }
